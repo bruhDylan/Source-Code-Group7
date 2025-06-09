@@ -1,0 +1,74 @@
+[
+  {
+    "RecId": "0763834BDB3D469DA9993F841C66A3D5",
+    "CreatedBy": "Admin",
+    "CreatedDateTime": "2009-10-28T11:27:02+02:00",
+    "LastModBy": "Admin",
+    "LastModDateTime": "2009-11-09T18:09:38+02:00",
+    "Source": "AIMR-Auto Incident Match",
+    "ReadOnly": false
+  },
+  {
+    "RecId": "0D0F5133D45F4FA890624C2BBEE4C742",
+    "CreatedBy": "Admin",
+    "CreatedDateTime": "2010-09-02T19:15:16+02:00",
+    "LastModBy": "Admin",
+    "LastModDateTime": "2010-09-02T19:15:20+02:00",
+    "Source": "Supplier",
+    "ReadOnly": false
+  },
+  {
+    "RecId": "171AE087760642B59F7BB4C40D34F317",
+    "CreatedBy": "Admin",
+    "CreatedDateTime": "2009-10-28T11:25:48+02:00",
+    "LastModBy": "Admin",
+    "LastModDateTime": "2009-11-09T18:09:38+02:00",
+    "Source": "Service Desk",
+    "ReadOnly": false
+  },
+  {
+    "RecId": "354D5263200E44F1BF2FC5D10758EAE2",
+    "CreatedBy": "Admin",
+    "CreatedDateTime": "2009-10-28T11:26:45+02:00",
+    "LastModBy": "Admin",
+    "LastModDateTime": "2009-11-09T18:09:38+02:00",
+    "Source": "Supplier",
+    "ReadOnly": false
+  },
+  {
+    "RecId": "440FCB9E50D7424BB72B7ED2BAE1FF83",
+    "CreatedBy": "Admin",
+    "CreatedDateTime": "2009-10-28T11:26:03+02:00",
+    "LastModBy": "Admin",
+    "LastModDateTime": "2009-11-09T18:09:38+02:00",
+    "Source": "Event Management",
+    "ReadOnly": false
+  },
+  {
+    "RecId": "7991206227734370A5AFC5E2B304867F",
+    "CreatedBy": "Admin",
+    "CreatedDateTime": "2009-10-28T11:26:53+02:00",
+    "LastModBy": "Admin",
+    "LastModDateTime": "2009-11-09T18:09:38+02:00",
+    "Source": "Contractor",
+    "ReadOnly": false
+  },
+  {
+    "RecId": "94D1657054274F5BB95A86740955FC4F",
+    "CreatedBy": "Admin",
+    "CreatedDateTime": "2009-10-28T11:26:25+02:00",
+    "LastModBy": "Admin",
+    "LastModDateTime": "2009-11-09T18:09:38+02:00",
+    "Source": "Proactive Problem Mgmt",
+    "ReadOnly": false
+  },
+  {
+    "RecId": "A7D73C90FC9949F4B4AA0D549FF03C36",
+    "CreatedBy": "Admin",
+    "CreatedDateTime": "2009-10-28T11:26:16+02:00",
+    "LastModBy": "Admin",
+    "LastModDateTime": "2009-11-09T18:09:38+02:00",
+    "Source": "Incident Management",
+    "ReadOnly": false
+  }
+]

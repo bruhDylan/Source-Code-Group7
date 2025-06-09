@@ -1,0 +1,38 @@
+[
+  {
+    "RecId": "443D997DD96143C7AF0BB32471E184AB",
+    "LastModDateTime": "2007-01-31T15:53:03+02:00",
+    "LastModBy": "Admin",
+    "CreatedDateTime": "2007-01-31T15:52:51+02:00",
+    "CreatedBy": "Admin",
+    "ResolutionAction": "Vendor Fix",
+    "ReadOnly": false
+  },
+  {
+    "RecId": "55817160FB724328BC4DD526385663BE",
+    "LastModDateTime": "2007-01-31T15:52:50+02:00",
+    "LastModBy": "Admin",
+    "CreatedDateTime": "2007-01-31T15:52:48+02:00",
+    "CreatedBy": "Admin",
+    "ResolutionAction": "None",
+    "ReadOnly": false
+  },
+  {
+    "RecId": "81DC50B47186474DA6D97F80BA04645C",
+    "LastModDateTime": "2007-01-31T15:52:47+02:00",
+    "LastModBy": "Admin",
+    "CreatedDateTime": "2007-01-31T15:52:39+02:00",
+    "CreatedBy": "Admin",
+    "ResolutionAction": "Training",
+    "ReadOnly": false
+  },
+  {
+    "RecId": "87D63DD12CFB42BA983706706DBE12A1",
+    "LastModDateTime": "2007-01-31T15:52:38+02:00",
+    "LastModBy": "Admin",
+    "CreatedDateTime": "2007-01-31T15:52:23+02:00",
+    "CreatedBy": "Admin",
+    "ResolutionAction": "Request for Change",
+    "ReadOnly": false
+  }
+]
