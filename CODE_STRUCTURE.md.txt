@@ -5,11 +5,11 @@ This document explains the structure of our chatbot web app.
 
 ##Project folder layout
 
-## 📁 Source Code Structure
+## Source Code Structure
 
 ```
-📦 chatbot-webapp/
-├── 📁 Data_Ivanti/                         # Ivanti data batch folders
+chatbot-webapp/
+├── Data_Ivanti/                           # Ivanti data batch folders
 │   ├── documents_batches/
 │   ├── error_messages_batches/
 │   ├── incidents_batches/
@@ -21,7 +21,7 @@ This document explains the structure of our chatbot web app.
 │   ├── sources_batches/
 │   └── workarounds_batches/
 
-├── 📁 scripts/                             # Python scripts for handling Ivanti datasets
+├── scripts/                               # Python scripts for handling Ivanti datasets
 │   ├── Documents.py
 │   ├── Error_messages.py
 │   ├── Incidents.py
@@ -33,19 +33,19 @@ This document explains the structure of our chatbot web app.
 │   ├── Sources.py
 │   └── Workarounds.py
 
-├── 📁 backend/                             # Backend logic (e.g., API routes, processing)
+├── backend/                               # Backend logic (e.g., API routes, processing)
 │   └── __init__.py
 
-├── 📁 frontend/                            # Frontend UI (from thinktank-chat-ui-main)
+├── frontend/                            # Frontend UI (from thinktank-chat-ui-main)
 │   └── thinktank-chat-ui-main/
 │       ├── public/
 │       ├── src/
 │       └── package.json
 
-├── 📁 config/                              # Config files & environment
+├── config/                              # Config files & environment
 │   └── .env
 
-├── 📁 docs/                                # Project documentation
+├── docs/                                # Project documentation
 │   ├── README.md
 │   └── README_ThinkTank_AI_Assistant.md
 
