@@ -67,6 +67,6 @@ chatbot-webapp/
 -**Backend**: FastAPI
 -**Authentication**: Supabase
 -**Storage**: Azure Blob Storage
--**AI**: GPT via Azure/OpenAI
+-**AI**: Cognitive search and Azure/OpenAI
 
 ---
