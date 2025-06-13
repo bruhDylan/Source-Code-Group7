@@ -69,8 +69,8 @@ chatbot-webapp/
 
 ## Technologies Used
 
-- **Frontend**: React.js  
+- **Frontend**: React.js, Lovable  
 - **Backend**: FastAPI  
 - **Authentication**: Supabase  
 - **Storage**: Azure Blob Storage  
-- **AI**: GPT via Azure/OpenAI
+- **AI**: Azure/OpenAI(GPT-4) and cognitive search
